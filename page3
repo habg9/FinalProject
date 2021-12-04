@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Facts about me</title>
+  </head>
+
+  <body>
+      <h1>On this page you will find facts about me</h1>
+      <h6>But I won't be giving you all my information, I've already given this place all of my money<br>
+        so I get to keep my privacy at least </h6>
+
+        <a href="https://www.google.com" target="_blank">Here</a> is a link to google in case you need it.<br><br>
+
+        <h3>Here is an image. I really like how it displays the dimnensions of the picture inside the box.</h3>
+        <img src="https://via.placeholder.com/150">
+
+        <h1>I like to run!</h1>
+        <h1>I also like to squat hundreds of pounds.</h1>
+
+
+  </body>
+
+
+
+
+</html>
