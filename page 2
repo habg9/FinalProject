@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Some things I like and somethings that I do not like. </title>
+  </head>
+
+  <body>
+
+    <h1> I'm going to use a lot of headers on this page. </h1>
+    For example..
+    <h1> Github is pointless and confusing</h1>
+
+    <h3> Here is AN ORDERED list of things that I like</h3>
+    <ol>
+      <li>Apples</li>
+      <li>Skiing</li>
+      <li>Reading</li>
+      <li>Not using Github</li>
+
+    </ol>
+
+    <h3>Here is an UNORDERED LIST of things I generally dislike</h3>
+
+    <ul>
+      <li>Github</li>
+      <li>Needing to elarn how to use Github</li>
+      <li>Getting out of bed early</li>
+      <li>Being late to things, I <b>HATE</b> <i>hate</i> being late to things. Just like I <b>hate</b> using Github</li>
+    <ul>
+
+
+
+  </body>
+
+
+</html>
