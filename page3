@@ -14,12 +14,19 @@
         <h3>Here is an image. I really like how it displays the dimnensions of the picture inside the box.</h3>
         <img src="https://via.placeholder.com/150">
 
-        <h1>I like to run!</h1>
-        <h1>I also like to squat hundreds of pounds.</h1>
+        <u><h1>I like to run!</h1></u>
+        <i><h1>I also like to squat hundreds of pounds.</h1></i>
+
+        <h4>I think I am the only one who doesn't know how to create links between<br>
+          the pages</h4>
 
 
   </body>
 
+  <a href="https://github.com/habg9/FinalProject/blob/main/page%202" target="_blank">Page 2</a><br>
+    <a href="https://github.com/habg9/FinalProject/blob/main/README.md" target="_blank">READMEPAGE</a>
+  <a href="https://github.com/habg9/FinalProject/new/main" target="_blank">Page 5</a><br>
+  <a href="https://github.com/habg9/FinalProject/blob/main/page4" target="_blank">Page 4</a>
 
 
 
