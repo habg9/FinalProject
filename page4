@@ -3,7 +3,33 @@
   <head>
     <title>Tables!</title>
   </head>
-
+  <head>
+    <style>
+      table,th,td
+      {
+        border:10px solid blue;
+      }
+      table
+      {
+        border-collapse:collapse;
+        width:50%;
+      }
+      td
+      {
+        height:90px;
+      }
+      tr
+      {
+        background-color:pink;
+        color:red;
+      }
+      th
+      {
+        background-color:yellow;
+        color:black;
+      }
+    </style>
+    </head>
   <body>
 
     <h1>Raw data: Trends in GPA</h1>
@@ -39,6 +65,7 @@
         </tr>
       </table>
 
+      <h1> Harry went on to write 13 books</h1>
 
   </body>
 
