@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>More stuff</title>
+  </head>
+
+
+    <h1> More stuff about me </h1><br>
+    I like to use text editors for coding. I use the free texteditor "ATOM"<br>
+    In fact, I am using it right now! :D
+<br>
+
+
+
+
+    <a href="https://github.com/habg9/FinalProject/blob/main/page%202" target="_blank">Page 2</a><br>
+    <a href="https://github.com/habg9/FinalProject/blob/main/page3" target="_blank">Page 3</a><br>
+      <a href="https://github.com/habg9/FinalProject/blob/main/page4" target="_blank">Page 4</a>
+    <a href="https://github.com/habg9/FinalProject/blob/main/README.md" target="_blank">READMEPAGE</a>
+
+  </body>
+
+
+
+
+</html>
